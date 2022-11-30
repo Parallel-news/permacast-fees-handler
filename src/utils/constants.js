@@ -1,6 +1,6 @@
 export const POD_CREATION_FEE = 1; // dummy
 export const FEE_COLLECTORS = {
-  evm: "0x9f445058ed6443ae49530eb0e22a91b694df32af", // dummy
+  evm: "0x197f818c1313DC58b32D88078ecdfB40EA822614", // dummy
 };
 
 export const PUBLIC_RPC = {
